@@ -7,6 +7,9 @@ A clear distinction was made between Artificial Intelligence (AI) and Machine Le
 * Artificial Intelligence (AI) is a broader concept. It focuses on creating systems that can think, learn, and make decisions in a way similar to humans. One important point discussed was that AI systems aim to retain learned knowledge instead of forgetting it.<br>
 * Machine Learning (ML) is a part of AI. It allows systems to learn from data and improve performance over time. However, when new data is introduced, older learned patterns may be replaced, which means ML models can sometimes forget previous information.<br>
 * Machine Learning is mainly used for pattern recognition, classification, and prediction, while AI focuses on creating intelligent and adaptive behavior.<br>
+
+<img width="874" height="364" alt="image" src="https://github.com/user-attachments/assets/44fb205c-11e6-4148-a6cf-5215bd052326" />
+
 This comparison helped in understanding where ML fits inside the broader AI domain.<br>
 ## Tools and Technologies Discussed
 The session also introduced the tools and technologies that will be used throughout the workshop and in the final project. Each tool was explained along with its purpose:<br>
@@ -20,7 +23,12 @@ Used for numerical computations and handling large datasets efficiently using ar
 A visualization library used to plot graphs and display images, which helps in understanding data patterns.<br>
 * **TensorFlow and Keras:**
 Powerful libraries used for building, training, and testing machine learning and deep learning models.<br>
-We were guided step by step to set up their Google Colab environment, create a new notebook, and get ready for upcoming practical sessions.<br>
+<img width="867" height="388" alt="image" src="https://github.com/user-attachments/assets/ddad3270-4755-4129-b44c-a95e80b5ec21" />
+
+We were guided step by step to set up their Google Colab environment, create a new notebook, and get ready for upcoming practical session
+
+<img width="975" height="397" alt="image" src="https://github.com/user-attachments/assets/d105e493-73c2-4ccb-bf16-cf87ae3c5370" />
+
 ## Machine Learning Practice in Google Colab
 A hands-on training session was conducted to apply the concepts practically using Google Colab. During this session:<br>
 * Required libraries were imported into the notebook.<br>
