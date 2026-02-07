@@ -24,8 +24,8 @@ Application hosting without managing hardware<br>
 Ready-to-use cloud software<br>
 
 ### Azure Pricing Model
-•	Mostly pay-as-you-go<br>
-•	You pay only for the resources you use<br>
+•	Mostly pay-as-you-go.<br>
+•	You pay only for the resources you use.<br>
 
  ### Azure Virtual Machines
 •	Cloud-based virtual servers<br>
